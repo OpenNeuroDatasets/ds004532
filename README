@@ -11,3 +11,9 @@ Study 1 subjects had subject IDs 101-180 plus the 5 placebo runs from an early t
 For example.  Joe Smith would have been 305 on visit 1, then 405 on visit 2.   Jane Henderson would have been 306 on visit 1, then 406 on visit 2.   Whatever visit got cab or placebo is indicated in the .xls sheet as well as on the Sess1_Drug and Sess2_Drug columns in the main .tsv file.   
 
 Task included in Matlab programming language.   Data collected circa 2012-2013 in Laboratory for Neural Computation & Cognition at Brown.  Check the .xls sheet under code folder for more meta data.   A few old analysis scripts are included.  - James F Cavanagh 02/15/2021
+
+UPDATES:   
+1) Note that the Reward and Penalty feedback labels ('FB: 0' and 'FB: +1') are incorrect here.   The actual feedback was 'Correct!' or 'Incorrect.'   I'm just going to leave those as-is in the files since it doesn't change too much.  Run the task (under /stimuli) to see what the feedbacks look like.
+2) The task description says 'Simon Conflict'.  This is not that task.  This is a Probabilistic Selection Task.  I can't change that part unfortunately.
+3) 
+
