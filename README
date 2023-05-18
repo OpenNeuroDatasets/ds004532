@@ -16,6 +16,5 @@ UPDATES:
 1) Uploaded a .json sidecar developed by EEGLab for NEMAR indexing:  task-PST_events.json
 2) Since this was updated, I had to erase each subject's *_events.json files.   
 3) Note that the Reward and Penalty feedback labels ('FB: 0' and 'FB: +1') are incorrect here.   The actual feedback was 'Correct!' or 'Incorrect.'   I'm just going to leave those as-is in the files since it doesn't change too much.  Run the task (under /stimuli) to see what the feedbacks look like.
-4) The task description says 'Simon Conflict'.  This is not that task.  This is a Probabilistic Selection Task.  I can't change that part unfortunately.
-
+4) there was a bug in the original task description that indicated this as 'Simon Conflict'.  This is not that task.  This is a Probabilistic Selection Task.  These should have been changed to PST, but if you see SimonConflict just realize that was an original mis-label.
 
