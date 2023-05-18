@@ -6,7 +6,7 @@
   "EEGGround": "AFz",
   "EEGReference": "CPz",
   "EEGChannelCount": 64,
-  "TaskName": "SimonConflict",
+  "TaskName": "PST",
   "MiscChannelCount": 64,
   "RecordingType": "continuous",
   "RecordingDuration": 1729.46,
